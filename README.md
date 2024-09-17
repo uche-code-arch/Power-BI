@@ -1,4 +1,5 @@
 # Projects
+# FP ANALYSIS CHALLENGE
 I worked on the FP analysis data using Power Bi as my analytical tool. 
 I started by extracting the data into the Power Bi environment and running some cleaning on the data.
 I used the power Bi query environment to run some analytical cleaning which involved checking for missing values,mis-labels,duplicates, e.t.c
@@ -10,3 +11,5 @@ I did some modelling in the given data where relationships that existed within t
 Then using charts the data was further visualized to explain better the insights gotten from the data.
 ![Screenshot (93)](https://github.com/user-attachments/assets/41c405b4-2b45-40db-b2cd-91a3b352d12b)
 ![Screenshot (100)](https://github.com/user-attachments/assets/f50715ce-c4a0-4e8a-9e0f-a0ff0e1cd62e)
+
+# DRUG ABUSE AND CRIMINAL CRIMES ASSOCIATED WITH IT
